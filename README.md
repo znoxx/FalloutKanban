@@ -3,7 +3,7 @@ Yet another JFF project, personal Kanban board, themed with Fallout-series games
 
 To give you and idea how it looks, thumbnail is here:
 
-
+![Fallout Kanban thumbnail](https://github.com/znoxx/FalloutKanban/raw/master/output/kanban-page001-thumb.png)
 
 ## Usage
 Get a PDF or PNG from "output" folder and print it on A3 sheet (in color, borderless). PNG file is compressed with .tar just to save the GitHub and your bandwith (it will not be displayed automatically).
